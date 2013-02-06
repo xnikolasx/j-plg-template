@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="2.5" type="plugin" group="system" method="upgrade">
+  <name>Plugin Template</name>
+  <author>Jookolas</author>
+  <authorEmail>owner@jookolas.ru</authorEmail>
+  <authorUrl>www.jookolas.ru</authorUrl>
+  <copyright>Copyright (c) 2013. All rights reserved.</copyright>
+  <creationDate>2013</creationDate>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <version>0.1</version>
+  <description>Шаблон плагина</description>
+  <files>
+    <filename plugin="plugin_template">plugin_template.php</filename>
+  </files>
+</install>
